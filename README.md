@@ -1,3 +1,5 @@
+**Description de l'outil**
+
 Le fichier 'collecte_donnnees_immobilieres_bienici.py' est un algorithme simple et concis de Web Scraping qui permet de collecter les données d'annonces immobilières locatives n'importe où en France grâce au site web https://www.bienici.com/
 
 L'utilisation de cet algorithme peut avoir pour but (liste non exhaustive) :
@@ -12,6 +14,7 @@ Dans l'exemple fourni, j'ai paramétré l'algorithme sur la ville de Lyon, en fo
 Egalement, je me suis limité aux métriques essentielles dans la collecte de données, en me focalisant sur la localisation, le prix et la surface locative des biens immobiliers.
 
 Enfin, il est possible d'exporter les données SQL sous format Excel à l'aide du fichier 'exporter_sql_en_excel.py'
+
 
 **Note importante**
 
