@@ -12,3 +12,13 @@ Dans l'exemple fourni, j'ai paramétré l'algorithme sur la ville de Lyon, en fo
 Egalement, je me suis limité aux métriques essentielles dans la collecte de données, en me focalisant sur la localisation, le prix et la surface locative des biens immobiliers.
 
 Enfin, il est possible d'exporter les données SQL sous format Excel à l'aide du fichier 'exporter_sql_en_excel.py'
+
+**Note importante**
+Je me suis limité à quelque chose de simple, mais il y a beaucoup de voies d'amélioration et notamment de collecter des données :
+- le bilan énergétique par bien immobilier (DPE, GES)
+- les données relatives à la personne qui a posté l'annonce (particulier, pro ...)
+- intégrer du NLP (Natural Language Processing) pour collecter de la donnée qualitative et quantitative dans la description des annonces
+
+Egalement, il est possible d'améliorer l'efficacité de l'algorithme en ajoutant :
+- du multithreading en créant plusieurs threads pour exécuter une partie du code de manière indépendante
+- la parallélisation pour exécuter simultanément plusieurs tâches ou processus indépendants
