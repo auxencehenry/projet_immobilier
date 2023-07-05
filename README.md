@@ -14,6 +14,7 @@ Egalement, je me suis limité aux métriques essentielles dans la collecte de do
 Enfin, il est possible d'exporter les données SQL sous format Excel à l'aide du fichier 'exporter_sql_en_excel.py'
 
 **Note importante**
+
 Je me suis limité à quelque chose de simple, mais il y a beaucoup de voies d'amélioration et notamment de collecter des données :
 - le bilan énergétique par bien immobilier (DPE, GES)
 - les données relatives à la personne qui a posté l'annonce (particulier, pro ...)
