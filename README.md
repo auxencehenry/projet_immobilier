@@ -2,7 +2,7 @@ Le fichier 'collecte_donnnees_immobilieres_bienici.py' est un algorithme simple 
 
 L'utilisation de cet algorithme peut avoir pour but (liste non exhaustive) :
 - de chercher un bien immobilier en location pour avoir des référentiels de prix et de surface par rapport à la localisation souhaitée
-- de produire des rapports sur les potentielles opportunités d'investissement locatif en s'appuyant sur des données essentielles
+- de produire des rapports sur les potentielles opportunités d'investissement locatif en s'appuyant sur des données essentielles (voir le graphique 'Annonces locatives à Lyon (05-07-2023)')
 - de traquer l'évolution du marché immobilier au cours du temps, en faisant fonctionner l'algorithme de manière journalière
 
 L'algorithme peut se paramètrer à l'aide d'une liste de villes, et même de départements, en stockant les résultats dans une base SQL en local.
